@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "xmascon23",
+    "title": "Xmas Contest 2023",
+    "url": "https://atcoder.jp/contests/xmascon23"
+  },
+  "tasks": [
+    {
+      "id": "xmascon23_a",
+      "label": "A",
+      "title": "Art Irrationnel",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_b",
+      "label": "B",
+      "title": "Beautiful Rotation",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_c",
+      "label": "C",
+      "title": "Clamp Clamp Clamp",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_d",
+      "label": "D",
+      "title": "Distance Construction",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_e",
+      "label": "E",
+      "title": "Exponent of PI",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_f",
+      "label": "F",
+      "title": "Failed Failure Link",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_g",
+      "label": "G",
+      "title": "Group Structure",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon23_h",
+      "label": "H",
+      "title": "How to Pose Such a Problem",
+      "url": "https://atcoder.jp/contests/xmascon23/tasks/xmascon23_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

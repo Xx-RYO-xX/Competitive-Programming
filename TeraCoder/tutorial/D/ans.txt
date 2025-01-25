@@ -1,0 +1,18 @@
+Case #1:
+2
+Case #2:
+8
+Case #3:
+3
+Case #4:
+4
+Case #5:
+9
+Case #6:
+7
+Case #7:
+5
+Case #8:
+3
+Case #9:
+10

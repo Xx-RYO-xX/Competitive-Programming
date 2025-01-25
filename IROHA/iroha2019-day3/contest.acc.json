@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": "iroha2019-day3",
+    "title": "いろはちゃんコンテスト Day3",
+    "url": "https://atcoder.jp/contests/iroha2019-day3"
+  },
+  "tasks": [
+    {
+      "id": "iroha2019_day3_a",
+      "label": "A",
+      "title": "宇宙人",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_b",
+      "label": "B",
+      "title": "ゐろはちゃん",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_c",
+      "label": "C",
+      "title": "Not Say \"NO\"",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_d",
+      "label": "D",
+      "title": "おにごっこ",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_e",
+      "label": "E",
+      "title": "「く」",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_f",
+      "label": "F",
+      "title": "闇のカードゲーム",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_g",
+      "label": "G",
+      "title": "ますまてぃくす・おりんぴっく！",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_h",
+      "label": "H",
+      "title": "〔経験値〕",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_i",
+      "label": "I",
+      "title": "Prime or Not",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_i",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_j",
+      "label": "J",
+      "title": "Go to Heaven",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_j",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_k",
+      "label": "K",
+      "title": "えそらんぐ",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_k",
+      "directory": {
+        "path": "k",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "iroha2019_day3_l",
+      "label": "L",
+      "title": "デクレッシェンド",
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_l",
+      "directory": {
+        "path": "l",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

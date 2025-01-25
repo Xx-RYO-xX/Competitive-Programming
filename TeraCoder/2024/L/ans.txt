@@ -1,0 +1,30 @@
+Case #1:
+draw
+-1
+Case #2:
+TerakoA
+747
+Case #3:
+Terako
+365
+Case #4:
+TerakoA
+652
+Case #5:
+Terako
+109
+Case #6:
+Terako
+13
+Case #7:
+Terako
+3
+Case #8:
+TerakoA
+3
+Case #9:
+draw
+-1
+Case #10:
+TerakoA
+2

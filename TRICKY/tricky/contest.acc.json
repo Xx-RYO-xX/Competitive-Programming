@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "tricky",
+    "title": "トリッキー問題コンテスト",
+    "url": "https://atcoder.jp/contests/tricky"
+  },
+  "tasks": [
+    {
+      "id": "tricky_1",
+      "label": "A",
+      "title": "整数割り算",
+      "url": "https://atcoder.jp/contests/tricky/tasks/tricky_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tricky_2",
+      "label": "B",
+      "title": "一変数方程式",
+      "url": "https://atcoder.jp/contests/tricky/tasks/tricky_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tricky_3",
+      "label": "C",
+      "title": "階乗と素因数",
+      "url": "https://atcoder.jp/contests/tricky/tasks/tricky_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tricky_4",
+      "label": "D",
+      "title": "高橋くんレーシング",
+      "url": "https://atcoder.jp/contests/tricky/tasks/tricky_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tricky_5",
+      "label": "E",
+      "title": "雲と影",
+      "url": "https://atcoder.jp/contests/tricky/tasks/tricky_5",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

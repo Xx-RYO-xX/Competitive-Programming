@@ -1,0 +1,20 @@
+    
+    ans = 0
+    for x in range(w):
+        for y in range(h):
+            if s[y][x] in {'.', 'H'} and (x, y) in humidified:
+                ans += 1
+    print(ans)
+    
+    
+        h, w, d = map(int, input().split())
+    s = []
+    wall = []
+    humid = []
+    for i in range(h):
+        s.append(input())
+        for j in range(w):
+            if s[i][j] == "#":
+                wall.append((i, j)) 
+            if s[i][j] == "H":
+                humid.append((i, j))

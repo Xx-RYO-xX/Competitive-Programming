@@ -1,0 +1,40 @@
+Case #1:
+3
+Case #2:
+5
+Case #3:
+Happy
+Case #4:
+5
+Case #5:
+Happy
+Case #6:
+Happy
+Case #7:
+Happy
+Case #8:
+5792
+Case #9:
+4330
+Case #10:
+8157
+Case #11:
+Happy
+Case #12:
+Happy
+Case #13:
+4397
+Case #14:
+5071
+Case #15:
+6753
+Case #16:
+Happy
+Case #17:
+Happy
+Case #18:
+Happy
+Case #19:
+Happy
+Case #20:
+3727

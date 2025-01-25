@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "xmascon24",
+    "title": "Xmas Contest 2024",
+    "url": "https://atcoder.jp/contests/xmascon24"
+  },
+  "tasks": [
+    {
+      "id": "xmascon24_a",
+      "label": "A",
+      "title": "Artistic Modulus",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_b",
+      "label": "B",
+      "title": "BNF Backup",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_c",
+      "label": "C",
+      "title": "Compose Your Library",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_d",
+      "label": "D",
+      "title": "Divisibility Power",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_e",
+      "label": "E",
+      "title": "Embed the Tree",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_f",
+      "label": "F",
+      "title": "Finite Field Training",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "xmascon24_g",
+      "label": "G",
+      "title": "Game Pack",
+      "url": "https://atcoder.jp/contests/xmascon24/tasks/xmascon24_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
