@@ -6,8 +6,10 @@ next_problem.sh
 make_dir.sh
 make_ans.sh
 cd.sh
+Start.bat
 
 
 Paiza
 __pycache__
 .vscode
+python
