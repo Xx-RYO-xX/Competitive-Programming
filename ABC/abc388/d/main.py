@@ -21,6 +21,13 @@ def main():
     
     # print(naguru)
     for i in range(n):
+        isi = naguru.get(i)
+        kubaru_idx =  min(n, i+isi+1)
+        naguru.apply(i+1, kubaru_idx, 1)
+        naguru.set(i, isi-(kubaru_idx-i)+1)
+    
+    for i in range(n):
+        print(naguru.get(i), end=" ")
         
 
 
