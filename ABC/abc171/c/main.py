@@ -32,7 +32,7 @@ def base_n(number, base):
 def main():
     n = int(input())
     ans = base_n(n, 26)
-    name = ''.join([chr(97 + int(c)) for c in ans])
+    name = ''.join([chr(97 + int(c)-1) for c in ans])
     print(name)
 
 
