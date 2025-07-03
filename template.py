@@ -2,7 +2,7 @@ import sys
 import decimal
 import networkx as nx
 import matplotlib.pyplot as plt
-from collections import defaultdict
+from collections import defaultdict, deque
 from itertools import groupby
 from functools import cache
 import math
@@ -297,6 +297,17 @@ def dfs(pos):
     path.pop()
     return False
 
+
+## bfs
+dist = defaultdict(lambda :-1)
+dist[1] = 0
+q = deque([1])
+while q:
+    pos = q.popleft()
+    for nex in g[pos]:
+        if dist[nex] == -1:
+            dist[nex] = dist[pos]+1
+            q.append(nex)
 
 # こっちの方が早い
 class UnionFind:
