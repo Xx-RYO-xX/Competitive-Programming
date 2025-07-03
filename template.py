@@ -289,11 +289,13 @@ def dfs(pos):
     visited[pos] = True
     path.append(pos)
     if pos == n:
-        exit()
+        return True
     for nex in g[pos]:
         if not visited[nex]:
-            dfs(nex)
-            path.pop()
+            if dfs(nex):
+                return True
+    path.pop()
+    return False
 
 
 # こっちの方が早い
