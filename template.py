@@ -280,6 +280,20 @@ def dfs(pos, graph_lst, visited, path, goal):
                 return
 
     path.pop()
+    
+n = 10**9
+visited = [True]+[False]*n
+path = []
+g = dict()
+def dfs(pos):
+    visited[pos] = True
+    path.append(pos)
+    if pos == n:
+        exit()
+    for nex in g[pos]:
+        if not visited[nex]:
+            dfs(nex)
+            path.pop()
 
 
 # こっちの方が早い
