@@ -309,6 +309,38 @@ while q:
             dist[nex] = dist[pos]+1
             q.append(nex)
 
+## ダイグストラ
+import heapq
+inf = float("inf")
+cur = defaultdict(lambda: inf)
+kakutei = defaultdict(lambda: False)
+prev = defaultdict(lambda:-1)
+q = []
+cur[1] = 0
+heapq.heappush(q, (cur[1], 1))
+while q:
+    pos = heapq.heappop(q)[1]
+    if kakutei[pos]:
+        continue
+    kakutei[pos]= True
+    for nex in g[pos]:
+        nex_pos, nex_dist = nex
+        if cur[nex_pos] > cur[pos]+nex_dist:
+            cur[nex_pos] = cur[pos]+nex_dist
+            heapq.heappush(q, (cur[nex_pos], nex_pos))
+            prev[nex_pos] = pos
+
+if cur[n] == inf:
+    print(-1)
+    exit()
+
+path = []
+node = n
+while node != -1:
+    path.append(node)
+    node = prev[node]
+print(*path[::-1])
+
 # こっちの方が早い
 class UnionFind:
     def __init__(self):
