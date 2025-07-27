@@ -14,7 +14,10 @@ def lcm(a, b):
 
 def base_n(number, base):
     """
-    10進数をn進数に変換する関数
+    10進数をn進数に変換する関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
     
     Parameters
     ----------
@@ -38,7 +41,10 @@ def base_n(number, base):
 
 def base_10(number_str, base):
     """
-    n進数を10進数に変換する関数
+    n進数を10進数に変換する関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
     
     Parameters
     ----------
@@ -65,7 +71,10 @@ def base_10(number_str, base):
 
 def euclid_distace(x1, y1, x2, y2):
     """
-    ユークリッド距離を求める関数
+    ユークリッド距離を求める関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
     
     Parameters
     ----------
@@ -88,7 +97,10 @@ def euclid_distace(x1, y1, x2, y2):
 
 def bit_full_search(lst, n):
     """
-    ビット全探索する関数
+    ビット全探索する関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
 
     Parameters
     ----------
@@ -116,7 +128,10 @@ def bit_full_search(lst, n):
 
 def rounding(num, digit):
     """
-    四捨五入を正確にする関数
+    四捨五入を正確にする関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
 
     Parameters
     ----------
@@ -141,7 +156,10 @@ def rounding(num, digit):
 
 def print_2d(lst, sep=None):
     """
-    2次元配列を出力する関数
+    2次元配列を出力する関数だっピ\n
+    ￣￣V￣￣￣￣￣￣￣￣￣￣￣￣\n
+    ( ・3・)\n
+    /｜｜｜\\
 
     Parameters
     ----------
