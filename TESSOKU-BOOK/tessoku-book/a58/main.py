@@ -5,23 +5,10 @@ def input():return sys.stdin.readline().rstrip()
 
 
 def main():
-    from atcoder.lazysegtree import LazySegTree
+    from atcoder.segtree import SegTree
     n, q = map(int, input().split())
     
-    def op(ele1, ele2):
-        return max(ele1, ele2)
-
-
-    def mapping(func, ele):
-        return func + ele
-
-    def composition(func_upper, func_lower):
-        return func_upper + func_lower
-
-    e = -float("inf")
-    id_ = 0
-
-    seg = LazySegTree(op, e, mapping, composition, id_, [0]*n)
+    seg = SegTree(op=max, e=0, v=[0]*n)
     
     for _ in range(q):
         query = input()
