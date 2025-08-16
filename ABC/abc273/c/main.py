@@ -5,16 +5,22 @@ def input():return sys.stdin.readline().rstrip()
 
 
 def main():
-    from collections import Counter
+    from collections import defaultdict
+    import bisect
+    
     n = int(input())
-    a = sorted(map(int, input().split()))
-    print(a)
-    a_cnt = Counter(a)
-    accm = []
-    for i in range(1, n+1):
-        accm.append(n-(i+a_cnt[a[i-1]]-1))
-        a_cnt[a[i-1]] -=1
-    print(accm)
+    a = list(map(int, input().split()))
+    sa = sorted(set(a))
+    
+    ans = defaultdict(int)
+    # print(sa)
+    for A in a:
+        k = len(sa)-bisect.bisect_right(sa, A)
+        # print(A, k)
+        ans[k] += 1
+    
+    for k in range(n):
+        print(ans[k])
 
 if __name__ == '__main__':
     sys.exit(main())
