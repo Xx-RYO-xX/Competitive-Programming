@@ -5,47 +5,35 @@ def input():return sys.stdin.readline().rstrip()
 
 
 def main():
-    import networkx as nx
     from itertools import permutations
     
     n, m = map(int, input().split())
-    g = nx.Graph()
-    g.add_nodes_from(range(1, n+1))
-    edges = []
+    g = set()
     for _ in range(m):
         a, b = map(int, input().split())
-        edges.append((a, b))
-    g.add_edges_from(edges)
-    
-    ans = float('inf')
-    for perm in permutations(range(1, n+1)):
-        visited = set()
-        cond = True
-        dg_edges = []
-        for i in range(1, n+1):
-            if i not in visited:
-                cycle = []
-                idx = i
-                while idx not in visited:
-                    visited.add(idx)
-                    cycle.append(idx)
-                    idx = perm[idx-1]
-                if idx != i or len(cycle) < 3:
-                    cond = False
-                    break
-                for j in range(len(cycle)):
-                    u = cycle[j]
-                    v = cycle[(j+1) % len(cycle)]
-                    dg_edges.append((u, v))
+        g.add(tuple(sorted((a, b))))
 
-        if not cond:
-            continue
-        dg = nx.Graph()
-        dg.add_edges_from(dg_edges)
-        diff = nx.symmetric_difference(g, dg)
-        anst = diff.number_of_edges()
-        ans = min(ans, anst)
+    ans = float("inf")
+    for perm in permutations(range(1, n+1)):
+        gt = set()
+        for i in range(n):
+            gt.add(tuple(sorted((perm[i], perm[i-1]))))
+        
+        ans = min(ans, len(g^gt))
+        if 6 <= n:
+            for j in range(3, n-2):
+                gt = set()
+                p1 = perm[:j]
+                p2 = perm[j:]
+                for i in range(j):
+                    gt.add(tuple(sorted((p1[i], p1[i-1]))))
+                for i in range(n-j):
+                    gt.add(tuple(sorted((p2[i], p2[i-1]))))
+                # print(gt)
+                ans = min(ans, len(g^gt))
+    
     print(ans)
+
     
 
 
