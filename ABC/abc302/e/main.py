@@ -1,23 +1,34 @@
+import sys
+
+
+def input():
+    return sys.stdin.readline().rstrip()
+
+
 def main():
     from collections import defaultdict
+
     n, q = map(int, input().split())
-    graph_set = defaultdict(set)
+    g = defaultdict(set)
     for _ in range(q):
         query = input()
         if query[0] == "1":
-            tmp, u, v = map(int, query.split())
-            graph_set[u].add(v)
-            graph_set[v].add(u)
-        else:
-            tmp, v = map(int,query.split())
-            for G in graph_set[v]:
-                # print(G)
-                graph_set[G].discard(v)
-                if len(graph_set[G]) == 0:
-                    graph_set.pop(G)
-            graph_set.pop(v, "")
-        
-        print(n - len(graph_set))
+            que, u, v = map(int, query.split())
+            g[u].add(v)
+            g[v].add(u)
 
-if __name__ == '__main__':
+        else:
+            que, v = map(int, query.split())
+            try:
+                for u in g.pop(v):
+                    g[u].discard(v)
+                    if len(g[u]) == 0:
+                        g.pop(u)
+            except:
+                None
+
+        print(n - len(g))
+
+
+if __name__ == "__main__":
     main()
