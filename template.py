@@ -606,6 +606,8 @@ def input():return sys.stdin.readline().rstrip()
 direction = {"U": (0, -1), "D":(0, 1), "L":(-1, 0), "R":(1, 0), 
             "UL":(-1, -1), "UR":(1, -1), "DL":(-1, 1), "DR":(1, 1)}
 
+direction = {(0, -1), (0, 1), (-1, 0), (1, 0), (-1, -1), (1, -1), (-1, 1), (1, 1)}
+
 
 def is_end(x: int, y: int, max_x: int, max_y: int, muki: str) -> bool: 
     return {"U": y == 0, "D": y == max_y, "L": x == 0, "R": x == max_x}[muki]
