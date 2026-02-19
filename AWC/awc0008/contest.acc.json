@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0008",
+    "title": "AtCoder Weekday Contest 0008 Beta",
+    "url": "https://atcoder.jp/contests/awc0008"
+  },
+  "tasks": [
+    {
+      "id": "awc0008_a",
+      "label": "A",
+      "title": "Planting the Flower Bed",
+      "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0008_b",
+      "label": "B",
+      "title": "Buildings Visible from the Sea",
+      "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0008_c",
+      "label": "C",
+      "title": "Anomaly Detection in Sensor Data",
+      "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0008_d",
+      "label": "D",
+      "title": "Orchard Harvest",
+      "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0008_e",
+      "label": "E",
+      "title": "Organizing the Bookshelf",
+      "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
