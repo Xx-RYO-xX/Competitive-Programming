@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0010",
+    "title": "AtCoder Weekday Contest 0010 Beta",
+    "url": "https://atcoder.jp/contests/awc0010"
+  },
+  "tasks": [
+    {
+      "id": "awc0010_a",
+      "label": "A",
+      "title": "Distributing Requests to Servers",
+      "url": "https://atcoder.jp/contests/awc0010/tasks/awc0010_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0010_b",
+      "label": "B",
+      "title": "Piano Practice",
+      "url": "https://atcoder.jp/contests/awc0010/tasks/awc0010_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0010_c",
+      "label": "C",
+      "title": "Mountain Hut Trails",
+      "url": "https://atcoder.jp/contests/awc0010/tasks/awc0010_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0010_d",
+      "label": "D",
+      "title": "Rock Destruction",
+      "url": "https://atcoder.jp/contests/awc0010/tasks/awc0010_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0010_e",
+      "label": "E",
+      "title": "Exhibition Booth Arrangement",
+      "url": "https://atcoder.jp/contests/awc0010/tasks/awc0010_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
