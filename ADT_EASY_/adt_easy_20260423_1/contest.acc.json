@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260423_1",
+    "title": "AtCoder Daily Training EASY 2026/04/23 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260423_1"
+  },
+  "tasks": [
+    {
+      "id": "abc407_a",
+      "label": "A",
+      "title": "Approximation",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_1/tasks/abc407_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc427_a",
+      "label": "B",
+      "title": "ABC -> AC",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_1/tasks/abc427_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "C",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_1/tasks/abc285_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_b",
+      "label": "D",
+      "title": "N - 1",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_1/tasks/abc429_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc344_c",
+      "label": "E",
+      "title": "A+B+C",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_1/tasks/abc344_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
