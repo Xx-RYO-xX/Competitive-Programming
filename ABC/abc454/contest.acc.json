@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc454",
+    "title": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
+    "url": "https://atcoder.jp/contests/abc454"
+  },
+  "tasks": [
+    {
+      "id": "abc454_a",
+      "label": "A",
+      "title": "Closed interval",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_b",
+      "label": "B",
+      "title": "Mapping",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_c",
+      "label": "C",
+      "title": "Straw Millionaire",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_d",
+      "label": "D",
+      "title": "(xx)",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_e",
+      "label": "E",
+      "title": "LRUD Moving",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_f",
+      "label": "F",
+      "title": "Make it Palindrome 2",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc454_g",
+      "label": "G",
+      "title": "Mode in the Subtree",
+      "url": "https://atcoder.jp/contests/abc454/tasks/abc454_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
