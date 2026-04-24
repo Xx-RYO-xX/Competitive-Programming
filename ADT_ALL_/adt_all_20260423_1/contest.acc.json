@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20260423_1",
+    "title": "AtCoder Daily Training ALL 2026/04/23 16:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20260423_1"
+  },
+  "tasks": [
+    {
+      "id": "abc407_a",
+      "label": "A",
+      "title": "Approximation",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc407_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc427_a",
+      "label": "B",
+      "title": "ABC -> AC",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc427_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "C",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc285_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_b",
+      "label": "D",
+      "title": "N - 1",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc429_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc344_c",
+      "label": "E",
+      "title": "A+B+C",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc344_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc226_c",
+      "label": "F",
+      "title": "Martial artist",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc226_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc288_d",
+      "label": "G",
+      "title": "Range Add Query",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc288_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_e",
+      "label": "H",
+      "title": "Jump Distance Sum",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc351_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc384_f",
+      "label": "I",
+      "title": "Double Sum 2",
+      "url": "https://atcoder.jp/contests/adt_all_20260423_1/tasks/abc384_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
