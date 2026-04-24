@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260423_2",
+    "title": "AtCoder Daily Training EASY 2026/04/23 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260423_2"
+  },
+  "tasks": [
+    {
+      "id": "abc419_a",
+      "label": "A",
+      "title": "AtCoder Language",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_2/tasks/abc419_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc246_a",
+      "label": "B",
+      "title": "Four Points",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_2/tasks/abc246_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc375_b",
+      "label": "C",
+      "title": "Traveling Takahashi Problem",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_2/tasks/abc375_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc376_b",
+      "label": "D",
+      "title": "Hands on Ring (Easy)",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_2/tasks/abc376_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_c",
+      "label": "E",
+      "title": "Odd One Subsequence",
+      "url": "https://atcoder.jp/contests/adt_easy_20260423_2/tasks/abc429_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
