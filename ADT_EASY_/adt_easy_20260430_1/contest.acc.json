@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260430_1",
+    "title": "AtCoder Daily Training EASY 2026/04/30 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260430_1"
+  },
+  "tasks": [
+    {
+      "id": "abc394_a",
+      "label": "A",
+      "title": "22222",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_1/tasks/abc394_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc294_a",
+      "label": "B",
+      "title": "Filter",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_1/tasks/abc294_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc440_b",
+      "label": "C",
+      "title": "Trifecta",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_1/tasks/abc440_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc327_b",
+      "label": "D",
+      "title": "A^A",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_1/tasks/abc327_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc349_c",
+      "label": "E",
+      "title": "Airport Code",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_1/tasks/abc349_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
