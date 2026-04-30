@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260430_2",
+    "title": "AtCoder Daily Training EASY 2026/04/30 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260430_2"
+  },
+  "tasks": [
+    {
+      "id": "abc348_a",
+      "label": "A",
+      "title": "Penalty Kick",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_2/tasks/abc348_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc259_a",
+      "label": "B",
+      "title": "Growth Record",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_2/tasks/abc259_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc281_b",
+      "label": "C",
+      "title": "Sandwich Number",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_2/tasks/abc281_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc262_b",
+      "label": "D",
+      "title": "Triangle (Easier)",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_2/tasks/abc262_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc260_c",
+      "label": "E",
+      "title": "Changing Jewels",
+      "url": "https://atcoder.jp/contests/adt_easy_20260430_2/tasks/abc260_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
