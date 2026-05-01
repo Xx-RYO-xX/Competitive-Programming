@@ -31,4 +31,4 @@ if __name__ == "__main__":
     else:
         if not os.path.exists(CACHE_FILE):
             precompute()
-        sys.exit(main())
+        main()
