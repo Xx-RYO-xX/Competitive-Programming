@@ -1,24 +1,31 @@
-import sys 
+import sys
 
 
-def input():return sys.stdin.readline().rstrip()
+def input():
+    return sys.stdin.readline().rstrip()
 
 
 def main():
     import heapq
+    from collections import deque
+
     q = int(input())
-    a = heapq.heapify([])
+    a_d = deque([])
+    a_h = []
     for _ in range(q):
-        query = input()
-        if query[0] == "1":
-            que, x = map(int, input().split())
-            heapq.heappush(a, x)
-
-        elif query[1] == "2":
-            
+        que = input()
+        if que[0] == "1":
+            num, x = map(int, que.split())
+            a_d.append(x)
+        elif que[0] == "2":
+            if a_h:
+                print(heapq.heappop(a_h))
+            else:
+                print(a_d.popleft())
         else:
-            
+            while a_d:
+                heapq.heappush(a_h, a_d.pop())
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     sys.exit(main())
