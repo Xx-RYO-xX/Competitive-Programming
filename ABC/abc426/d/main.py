@@ -20,27 +20,18 @@ def main():
         n = int(input())
         s = list(input())
         s_rle = runLengthEncode(s)
-        # print(s_rle)
-        max_len = 0
-        max_youso = None
-        pop = 0
-        for i in range(len(s_rle)):
-            if max_len < s_rle[i][1]:
-                max_len = s_rle[i][1]
-                max_youso = s_rle[i]
-                pop = i
-        # print(max_len, max_youso)
-        # print(pop)
-        s_rle.pop(pop)
-        # print(s_rle)
 
-        ans = 0
-        for S in s_rle:
-            if S[0] == max_youso[0]:
-                ans += 2 * S[1]
-            else:
-                ans += S[1]
-        print(ans)
+        cnt0 = s.count("0")
+        cnt1 = s.count("1")
+        max_len0 = 0
+        max_len1 = 0
+        for i in range(len(s_rle)):
+            if s_rle[i][0] == "0" and max_len0 < s_rle[i][1]:
+                max_len0 = s_rle[i][1]
+            if s_rle[i][0] == "1" and max_len1 < s_rle[i][1]:
+                max_len1 = s_rle[i][1]
+
+        print(min(2 * (cnt0 - max_len0) + cnt1, 2 * (cnt1 - max_len1) + cnt0))
 
 
 if __name__ == "__main__":
