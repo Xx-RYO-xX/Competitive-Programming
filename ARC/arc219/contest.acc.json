@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "arc219",
+    "title": "AtCoder Regular Contest-- 219",
+    "url": "https://atcoder.jp/contests/arc219"
+  },
+  "tasks": [
+    {
+      "id": "arc219_a",
+      "label": "A",
+      "title": "Similarity",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_b",
+      "label": "B",
+      "title": "Reverse Permutation",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_c",
+      "label": "C",
+      "title": "Traveling Door-to-Door Salesman (Elevator)",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_d",
+      "label": "D",
+      "title": "Grid Game",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_e",
+      "label": "E",
+      "title": "Equal Distribution",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_f",
+      "label": "F",
+      "title": "Range Division",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc219_g",
+      "label": "G",
+      "title": "Traveling Door-to-Door Salesman (Stairs)",
+      "url": "https://atcoder.jp/contests/arc219/tasks/arc219_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
