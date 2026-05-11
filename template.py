@@ -199,6 +199,13 @@ def runLengthEncodeToString(S: str) -> str:
     return res
 
 
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.nex = None
+        self.prev = None
+
+
 class Deque:
     """
     O(1)でランダムアクセスできるdeque
