@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260514_1",
+    "title": "AtCoder Daily Training EASY 2026/05/14 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260514_1"
+  },
+  "tasks": [
+    {
+      "id": "abc214_a",
+      "label": "A",
+      "title": "New Generation ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20260514_1/tasks/abc214_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc375_a",
+      "label": "B",
+      "title": "Seats",
+      "url": "https://atcoder.jp/contests/adt_easy_20260514_1/tasks/abc375_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc445_b",
+      "label": "C",
+      "title": "Center Alignment",
+      "url": "https://atcoder.jp/contests/adt_easy_20260514_1/tasks/abc445_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc292_b",
+      "label": "D",
+      "title": "Yellow and Red Card",
+      "url": "https://atcoder.jp/contests/adt_easy_20260514_1/tasks/abc292_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc425_c",
+      "label": "E",
+      "title": "Rotate and Sum Query",
+      "url": "https://atcoder.jp/contests/adt_easy_20260514_1/tasks/abc425_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
