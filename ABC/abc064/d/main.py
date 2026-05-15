@@ -1,28 +1,24 @@
-import sys 
+import sys
 
 
-def input():return sys.stdin.readline().rstrip()
+def input():
+    return sys.stdin.readline().rstrip()
 
 
 def main():
     n = int(input())
     s = input()
 
-    count_C = 0
-    count_D = 0 
-    for c in s:
-        if c == "(":
-            count_C += 1
-        else:
-            count_D += 1
-    
-    print(count_C, count_D)
-    
-    len_s = len(s)
-    if count_C < count_D:
-        inserted_count = 0
-        for i in range(len_s):
-            if s[i+inserted_count] 
+    stack = []
+    for S in s:
+        stack.append(S)
+        if len(stack) >= 2 and stack[-2] + stack[-1] == "()":
 
-if __name__ == '__main__':
+            stack.pop()
+            stack.pop()
+
+    print("(" * stack.count(")") + s + ")" * stack.count("("))
+
+
+if __name__ == "__main__":
     sys.exit(main())
