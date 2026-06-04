@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20260604_1",
+    "title": "AtCoder Daily Training ALL 2026/06/04 16:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20260604_1"
+  },
+  "tasks": [
+    {
+      "id": "abc312_a",
+      "label": "A",
+      "title": "Chord",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc312_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc301_a",
+      "label": "B",
+      "title": "Overall Winner",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc301_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc247_b",
+      "label": "C",
+      "title": "Unique Nicknames",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc247_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc348_b",
+      "label": "D",
+      "title": "Farthest Point",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc348_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc215_c",
+      "label": "E",
+      "title": "One More aab aba baa",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc215_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc222_c",
+      "label": "F",
+      "title": "Swiss-System Tournament",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc222_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc362_d",
+      "label": "G",
+      "title": "Shortest Path 3",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc362_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_e",
+      "label": "H",
+      "title": "Laser Takahashi",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc442_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc409_f",
+      "label": "I",
+      "title": "Connecting Points",
+      "url": "https://atcoder.jp/contests/adt_all_20260604_1/tasks/abc409_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
