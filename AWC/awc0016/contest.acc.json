@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0016",
+    "title": "AtCoder Weekday Contest 0016 Beta",
+    "url": "https://atcoder.jp/contests/awc0016"
+  },
+  "tasks": [
+    {
+      "id": "awc0016_a",
+      "label": "A",
+      "title": "Over Budget",
+      "url": "https://atcoder.jp/contests/awc0016/tasks/awc0016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0016_b",
+      "label": "B",
+      "title": "Exam Preparation",
+      "url": "https://atcoder.jp/contests/awc0016/tasks/awc0016_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0016_c",
+      "label": "C",
+      "title": "Choosing Souvenirs",
+      "url": "https://atcoder.jp/contests/awc0016/tasks/awc0016_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0016_d",
+      "label": "D",
+      "title": "The Path of Carrying Luggage",
+      "url": "https://atcoder.jp/contests/awc0016/tasks/awc0016_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0016_e",
+      "label": "E",
+      "title": "Optimal Route for a Sightseeing Tour",
+      "url": "https://atcoder.jp/contests/awc0016/tasks/awc0016_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
