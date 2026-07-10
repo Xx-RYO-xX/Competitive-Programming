@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20260709_2",
+    "title": "AtCoder Daily Training ALL 2026/07/09 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20260709_2"
+  },
+  "tasks": [
+    {
+      "id": "abc360_a",
+      "label": "A",
+      "title": "A Healthy Breakfast",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc360_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc359_a",
+      "label": "B",
+      "title": "Count Takahashi",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc359_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc286_b",
+      "label": "C",
+      "title": "Cat",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc286_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc375_b",
+      "label": "D",
+      "title": "Traveling Takahashi Problem",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc375_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_c",
+      "label": "E",
+      "title": "Peer Review",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc442_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc274_c",
+      "label": "F",
+      "title": "Ameba",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc274_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc279_d",
+      "label": "G",
+      "title": "Freefall",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc279_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc243_e",
+      "label": "H",
+      "title": "Edge Deletion",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc243_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc265_f",
+      "label": "I",
+      "title": "Manhattan Cafe",
+      "url": "https://atcoder.jp/contests/adt_all_20260709_2/tasks/abc265_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
