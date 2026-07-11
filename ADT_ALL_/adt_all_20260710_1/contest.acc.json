@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20260710_1",
+    "title": "AtCoder Daily Training ALL 2026/07/10 16:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20260710_1"
+  },
+  "tasks": [
+    {
+      "id": "abc354_a",
+      "label": "A",
+      "title": "Exponential Plant",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc354_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_a",
+      "label": "B",
+      "title": "3,2,1,GO",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc450_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_b",
+      "label": "C",
+      "title": "Arrays",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc457_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc415_b",
+      "label": "D",
+      "title": "Pick Two",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc415_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc395_c",
+      "label": "E",
+      "title": "Shortest Duplicate Subarray",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc395_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc346_c",
+      "label": "F",
+      "title": "Σ",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc346_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc325_d",
+      "label": "G",
+      "title": "Printing Machine",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc325_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_e",
+      "label": "H",
+      "title": "Hit and Away",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc429_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc303_f",
+      "label": "I",
+      "title": "Damage over Time",
+      "url": "https://atcoder.jp/contests/adt_all_20260710_1/tasks/abc303_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
