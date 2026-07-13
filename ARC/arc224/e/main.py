@@ -7,13 +7,11 @@ def main():
         s = list(input().rstrip())
 
         stack = []
-        a_idx = []
         ans = 0
         for S in s:
             match S:
                 case "A":
                     stack.append(S)
-                    a_idx.append(len(stack) - 1)
                 case "B":
                     while stack:
                         last = stack.pop()
@@ -26,12 +24,11 @@ def main():
                     while stack:
                         last = stack.pop()
                         if last == "A":
-                            a_idx.pop()
+                            continue
                         else:
                             break
                     else:
                         stack.clear()
-                        a_idx.clear()
                         ans += 1
 
         print(ans)
