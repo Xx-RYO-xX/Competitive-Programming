@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0119",
+    "title": "AtCoder Weekday Contest 0119 Beta",
+    "url": "https://atcoder.jp/contests/awc0119"
+  },
+  "tasks": [
+    {
+      "id": "awc0119_a",
+      "label": "A",
+      "title": "Encyclopedia Completion",
+      "url": "https://atcoder.jp/contests/awc0119/tasks/awc0119_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0119_b",
+      "label": "B",
+      "title": "Mail Delivery and Letter Weights",
+      "url": "https://atcoder.jp/contests/awc0119/tasks/awc0119_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0119_c",
+      "label": "C",
+      "title": "Battery Level and Power Saving Mode",
+      "url": "https://atcoder.jp/contests/awc0119/tasks/awc0119_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0119_d",
+      "label": "D",
+      "title": "Package Assignment at the Distribution Center",
+      "url": "https://atcoder.jp/contests/awc0119/tasks/awc0119_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0119_e",
+      "label": "E",
+      "title": "Organizing the Bookshelf",
+      "url": "https://atcoder.jp/contests/awc0119/tasks/awc0119_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
