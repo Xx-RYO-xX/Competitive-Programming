@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "bcu30-2019-qual",
+    "title": "プログラミングバトル 予選 - BCU30",
+    "url": "https://atcoder.jp/contests/bcu30-2019-qual"
+  },
+  "tasks": [
+    {
+      "id": "bcu30_2019_qual_a",
+      "label": "A",
+      "title": "Bullet of Flame",
+      "url": "https://atcoder.jp/contests/bcu30-2019-qual/tasks/bcu30_2019_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
