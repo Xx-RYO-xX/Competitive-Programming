@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtCoder Senpai/ARC224.md",
-                "mode": "source",
+                "file": "テンプレ/二分探索.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARC224"
+              "title": "二分探索"
             }
           }
         ]
@@ -187,11 +187,11 @@
   },
   "active": "0f5ac3854c16fcbe",
   "lastOpenFiles": [
-    "AtCoder Senpai/ABC469.md",
-    "AtCoder Senpai/ARC224.md",
-    "テンプレ/二分探索.md",
     "テンプレ/bit全探索.md",
     "テンプレ/基数変換.md",
+    "テンプレ/二分探索.md",
+    "AtCoder Senpai/ARC224.md",
+    "AtCoder Senpai/ABC469.md",
     "無題のファイル無題のファイル.md",
     "テンプレ",
     "AtCoder Senpai/ABC468.md",
