@@ -1,0 +1,174 @@
+{
+  "contest": {
+    "id": "past23-open",
+    "title": "第23回 アルゴリズム実技検定(過去問)",
+    "url": "https://atcoder.jp/contests/past23-open"
+  },
+  "tasks": [
+    {
+      "id": "past23_a",
+      "label": "A",
+      "title": "Thoughtful Shopping",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_b",
+      "label": "B",
+      "title": "Before After",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_c",
+      "label": "C",
+      "title": "Postponement of meetings",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_d",
+      "label": "D",
+      "title": "Character Adjacent",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_e",
+      "label": "E",
+      "title": "Sort Fractions",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_f",
+      "label": "F",
+      "title": "Love Triangle",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_g",
+      "label": "G",
+      "title": "Long Sum",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_h",
+      "label": "H",
+      "title": "Sandwich triplet",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_i",
+      "label": "I",
+      "title": "Num of Unique Characters",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_i",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_j",
+      "label": "J",
+      "title": "Office",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_j",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_k",
+      "label": "K",
+      "title": "Most Frequent Character Query",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_k",
+      "directory": {
+        "path": "k",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_l",
+      "label": "L",
+      "title": "Sushi-Go-Round",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_l",
+      "directory": {
+        "path": "l",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_m",
+      "label": "M",
+      "title": "Boost Takahashi",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_m",
+      "directory": {
+        "path": "m",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_n",
+      "label": "N",
+      "title": "Sorting Substrings",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_n",
+      "directory": {
+        "path": "n",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "past23_o",
+      "label": "O",
+      "title": "Grid Maximize",
+      "url": "https://atcoder.jp/contests/past23-open/tasks/past23_o",
+      "directory": {
+        "path": "o",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
