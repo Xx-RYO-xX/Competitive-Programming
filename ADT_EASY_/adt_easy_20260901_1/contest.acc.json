@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20260901_1",
+    "title": "AtCoder Daily Training EASY 2026/09/01 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20260901_1"
+  },
+  "tasks": [
+    {
+      "id": "abc393_a",
+      "label": "A",
+      "title": "Poisonous Oyster ",
+      "url": "https://atcoder.jp/contests/adt_easy_20260901_1/tasks/abc393_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc224_a",
+      "label": "B",
+      "title": "Tires",
+      "url": "https://atcoder.jp/contests/adt_easy_20260901_1/tasks/abc224_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc268_b",
+      "label": "C",
+      "title": "Prefix?",
+      "url": "https://atcoder.jp/contests/adt_easy_20260901_1/tasks/abc268_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc374_b",
+      "label": "D",
+      "title": "Unvarnished Report",
+      "url": "https://atcoder.jp/contests/adt_easy_20260901_1/tasks/abc374_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc436_c",
+      "label": "E",
+      "title": "2x2 Placing",
+      "url": "https://atcoder.jp/contests/adt_easy_20260901_1/tasks/abc436_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
