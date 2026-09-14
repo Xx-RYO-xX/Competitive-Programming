@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc474",
+    "title": "AtCoder Beginner Contest 474",
+    "url": "https://atcoder.jp/contests/abc474"
+  },
+  "tasks": [
+    {
+      "id": "abc474_a",
+      "label": "A",
+      "title": "Not X",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_b",
+      "label": "B",
+      "title": "Exit Order",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_c",
+      "label": "C",
+      "title": "Remove and Append",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_d",
+      "label": "D",
+      "title": "Outweigh",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_e",
+      "label": "E",
+      "title": "One Time Coupon",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_f",
+      "label": "F",
+      "title": "Increment All Divisors",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc474_g",
+      "label": "G",
+      "title": "LRUD Moving 2",
+      "url": "https://atcoder.jp/contests/abc474/tasks/abc474_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
