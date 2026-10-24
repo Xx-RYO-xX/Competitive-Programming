@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20261022_2",
+    "title": "AtCoder Daily Training ALL 2026/10/22 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20261022_2"
+  },
+  "tasks": [
+    {
+      "id": "abc328_a",
+      "label": "A",
+      "title": "Not Too Hard",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc328_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc389_a",
+      "label": "B",
+      "title": "9x9",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc389_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc216_b",
+      "label": "C",
+      "title": "Same Name",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc216_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc333_b",
+      "label": "D",
+      "title": "Pentagon",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc333_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc304_c",
+      "label": "E",
+      "title": "Virus",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc304_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_c",
+      "label": "F",
+      "title": "Plumage Palette",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc464_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc300_d",
+      "label": "G",
+      "title": "AABCC",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc300_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc390_e",
+      "label": "H",
+      "title": "Vitamin Balance",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc390_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc233_f",
+      "label": "I",
+      "title": "Swap and Sort",
+      "url": "https://atcoder.jp/contests/adt_all_20261022_2/tasks/abc233_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
